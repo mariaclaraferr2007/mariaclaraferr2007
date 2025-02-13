@@ -12,7 +12,7 @@
 </div>
 <br>
 <div>
-  <a href="https://www.linkedin.com/in/luiza-souza-teixeira-4624b4312/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-X23007785?style-for-the-badge logo-linkedin&logoColor-white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/maria-clara-ferreira-lopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-X23007785?style-for-the-badge logo-linkedin&logoColor-white" target="_blank"></a>
 </div>
 <br>
 <div>
